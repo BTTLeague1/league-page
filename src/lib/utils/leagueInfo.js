@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome to the first edition of the Better Than "The League" website! As our league grows, I plan to have this website to grow with us.</p>
-  <p>Moving forward, I plan to implement the pickem statndings, League Notes, and so much more. </p>
+
   
 `;
 
